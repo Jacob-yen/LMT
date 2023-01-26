@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is the webpage of our submission: ***Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations***
+This is the webpage of our ICSE 2023 SEIP paper: ***Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations***
 
 Chips are the basis to support the rapid development of new technologies in the modern world. Defective chips may cause huge economic losses or even disasters, and thus ensuring the reliability of chips is fundamentally important. To ensure the functional correctness of chips, adequate testing is always a must on the chip design implementation (CDI), which is the software implementation of the chip under design using hardware description languages, before putting on fabrication. Over the years, although some techniques targeting CDI functional testing have been proposed, there are still a number of functionality points that are hard to cover efficiently due to the huge search space of test inputs and the complex constraints among the variables in a test input. We call the coverage of these points last-mile functional coverage here. Regarding it, experts have to take a long time to manually design test inputs.
 
